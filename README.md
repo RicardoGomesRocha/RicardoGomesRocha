@@ -1,4 +1,6 @@
-### Hi there 👋
+![alt text](https://raw.githubusercontent.com/RicardoGomesRocha/RicardoGomesRocha/main/images/banner.png)
+
+### Hi there! It's me, Ricardo! 👋
 
 <!--
 **RicardoGomesRocha/RicardoGomesRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
