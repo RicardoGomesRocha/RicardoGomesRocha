@@ -17,7 +17,7 @@
 #### 🎷 Saxophone player
 
 
-## 🥰 My personal projects (help me if you can 🙏)
+## 🥰 My personal and open source projects (help me if you can 🙏)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FullExpression&repo=confusion-matrix-stats&theme=gruvbox)](https://github.com/FullExpression/confusion-matrix-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FullExpression&repo=confusion-matrix&theme=gruvbox)](https://github.com/FullExpression/confusion-matrix-stats)
