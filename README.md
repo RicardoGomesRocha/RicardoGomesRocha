@@ -4,17 +4,7 @@
 
 ## 💪 This is what I proudly am:
 
-#### 💻 Full Stack Web Developer and in love with javascript and everything around
-
-#### 👨‍💻 Working daily with C#, angular, and SQL
-
-#### ✨ Deep learning enthusiastic, especially if works with javascript 😀
-
-#### 📚 Learn addicted
-
-#### 🤓 Proud nerd
-
-#### 🎷 Saxophone player
+Full-stack web developer, specialized in frontend. I have a master's degree in Software Engineering, with a focus on software architecture and deep learning (Al). I have 15 years of programming experience and 9 years of working experience. I love learning and I am a proud programmer. I also love music and one of my passions is playing saxophone and piano.
 
 
 ## 🥰 My personal and open source projects (help me if you can 🙏)
