@@ -2,9 +2,25 @@
 
 ![alt text](https://raw.githubusercontent.com/RicardoGomesRocha/RicardoGomesRocha/main/images/banner.png)
 
-## 💪 This is what I proudly am:
+🚀 So, here's the lowdown – I'm a full-stack web dev with a serious crush on front-end development. Armed with a master's in Software Engineering, I've been rocking the programming scene for a solid decade. I've got this knack for software architecture, team and project management, and even dabble in the magical realm of deep learning (yeah, AI, baby!).
 
-Full-stack web developer, specialized in frontend. I have a master's degree in Software Engineering, with a focus on software architecture and deep learning (Al). I have 15 years of programming experience and 9 years of working experience. I love learning and I am a proud programmer. I also love music and one of my passions is playing saxophone and piano.
+My coding toolbox 🧰 is stacked – JavaScript, TypeScript, React, Angular, C#, SQL, NoSQL - you name it. Nevertheless, learning is my best tool 📚!
+
+But here's the thing – I'm not just about the code. My soft skills game is strong – think big-picture pondering, critical thinking, and communication skills sharper than a ninja's blade. Leading, mentoring, and rocking successful projects? Yeah, that's my jam as well.
+
+Now, outside the coding dojo, I'm a music lover. Saxophone and piano are my instruments of choice, teaching me the art of teamwork and staying cool under pressure.
+
+I've got a soft spot for giving back too 🥰. I've lent a hand to the Jacksonville Human Society (dog shelter). And speaking of sharing wisdom, I also write blogs and buzz around on Twitter, LinkedIn, Stackoverflow and my own Blog. Go ahead and check me out:
+
+- Linkedin (https://www.linkedin.com/in/ricardogomesrocha/)
+- Stackoverflow (https://stackoverflow.com/users/5148197/ricardo-rocha)
+- Twitter (https://twitter.com/RochaDaRicardo)
+- Github (https://github.com/RicardoGomesRocha)
+- Blog (https://ricardo-tech-lover.hashnode.dev/)
+
+Let's connect and dive into the exciting world of web development!
+
+Cheers 🥂, Ricardo 👊
 
 
 ## 🥰 My personal and open source projects (help me if you can 🙏)
