@@ -1,16 +1,19 @@
 # 🧐 It's me! Ricardo! ✨
 
-![alt text](https://raw.githubusercontent.com/RicardoGomesRocha/RicardoGomesRocha/main/images/banner.png)
+![Knight with Unicorn Art](https://github.com/user-attachments/assets/17b233e4-ae32-411d-af79-b38c3261f143)
 
-🚀 So, here's the lowdown – I'm a full-stack web dev with a serious crush on front-end development. Armed with a master's in Software Engineering, I've been rocking the programming scene for a solid decade. I've got this knack for software architecture, team and project management, and even dabble in the magical realm of deep learning (yeah, AI, baby!).
+Hey there 👋!
 
-My coding toolbox 🧰 is stacked – JavaScript, TypeScript, React, Angular, C#, SQL, NoSQL - you name it. Nevertheless, learning is my best tool 📚!
+🚀 So, here's the lowdown – As a Scrum Knight, I take on a hybrid role that blends the technical expertise of a Tech Lead with the agile facilitation skills of a Scrum Master. My mission is to ensure my team thrives both in implementing the Scrum framework and tackling technical challenges.
 
-But here's the thing – I'm not just about the code. My soft skills game is strong – think big-picture pondering, critical thinking, and communication skills sharper than a ninja's blade. Leading, mentoring, and rocking successful projects? Yeah, that's my jam as well.
+Here’s how I approach this role:
+- ✅ Implement Scrum: Ensure the team fully embraces and follows the Scrum framework.
+- 🤝 Self-Organization & Collaboration: Guide the team to become self-organized, cross-functional, and highly collaborative.
+- 🛠️ Technical Empowerment: Ensure the team has the technical skills and tools needed to excel in their roles.
+- 👩‍💻 Hands-On Leadership: Actively code alongside the team while mentoring them on technical decisions.
+- 🌱 Psychological Safety: Foster an environment where collaboration thrives, mistakes are seen as learning opportunities, and innovation is encouraged.
 
-Now, outside the coding dojo, I'm a music lover. Saxophone and piano are my instruments of choice, teaching me the art of teamwork and staying cool under pressure.
-
-I've got a soft spot for giving back too 🥰. I've lent a hand to the Jacksonville Human Society (dog shelter). And speaking of sharing wisdom, I also write blogs and buzz around on Twitter, LinkedIn, Stackoverflow and my own Blog. Go ahead and check me out:
+Go ahead and check me out:
 
 - Linkedin (https://www.linkedin.com/in/ricardogomesrocha/)
 - Stackoverflow (https://stackoverflow.com/users/5148197/ricardo-rocha)
